@@ -2,3 +2,4 @@
 
 https://adventofcode.com/2023
 
+Login with github.
